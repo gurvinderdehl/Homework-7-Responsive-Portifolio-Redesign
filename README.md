@@ -40,12 +40,12 @@ The main purpose of this assignment is create a responsive personal portifolio, 
 -----------------------------------------------------------------------------------------------------------------------
 
 ## 8. Demonstration :  
-![Screenshot01](./Assets/Screenshot1)
-![Screenshot02](/Assets/Screenshot2)
-![Screenshot03](/Assets/Screenshot3)
-![Screenshot04](/Assets/Screenshot4)
-![Screenshot05](/Assets/Screenshot5)
-![Screenshot06](/Assets/Screenshot6)
+![Screenshot01](./Assets/Screenshot1.png)
+![Screenshot02](/Assets/Screenshot2.png)
+![Screenshot03](/Assets/Screenshot3.png)
+![Screenshot04](/Assets/Screenshot4.png)
+![Screenshot05](/Assets/Screenshot5.png)
+![Screenshot06](/Assets/Screenshot6.png)
 
 
 
