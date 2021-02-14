@@ -39,7 +39,7 @@ The main purpose of this assignment is create a responsive personal portifolio, 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 8. Demonstration :  
+## 4. Demonstration :  
 ![Screenshot01](./Assets/Screenshot1.png)
 ![Screenshot02](/Assets/Screenshot2.png)
 ![Screenshot03](/Assets/Screenshot3.png)
@@ -51,7 +51,7 @@ The main purpose of this assignment is create a responsive personal portifolio, 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 9. URLs 
+## 5. URLs 
 
 * The URL of the deployed application : https://gurvinderdehl.github.io/Homework-7-Responsive-Portifolio-Redesign/
 
