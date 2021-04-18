@@ -292,10 +292,20 @@ img{
   width: 100%;
 }
 .skills__css{
-  width: 95%;
+  width: 100%;
 }
 .skills__js{
-  width: 90%;
+  width: 100%;
+}
+
+.skills__MongoDB{
+  width: 100%;
+}
+.skills__ExpressJS{
+  width: 100%;
+}
+.skills__ReactJS{
+  width: 100%;
 }
 .skills__img{
   border-radius: .5rem;
